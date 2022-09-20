@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+}
+div {
+ width: 200px;
+ height: 200px;
+ color: white;
+  
+  text-align: center;
+}
+.box-1 {
+  background-color: #20bf77;
+}
+.box-2 {
+  background-color: #70a6e9;
+}
+.box-3 {
+  background-color: #864f78;
+}
+.box-4 {
+  background-color: #8f7e03;
+}
+.box-5 {
+  background-color: #e17fd0;
+}
+.box-6 {
+  background-color: #acbac0;
+}
+.box-7 {
+  background-color: #1f704b;
+}
+.box-8 {
+  background-color: #fc6cb8;
+}
+html {
+  display: inline-block;
+}
